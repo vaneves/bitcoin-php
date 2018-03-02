@@ -1,4 +1,4 @@
-# Query to Bitcoin via PHP
+# 🔗 Query to Bitcoin via PHP
 
 ## Installing
 
@@ -56,3 +56,13 @@ try {
     echo $e->getMessage();
 }
 ```
+
+## License
+
+The MIT License (MIT)
+
+## Donate
+
+Bitcoin address: **1H6ssXbPbLeDVQNf9PqaarTEeG9sjurEgm**
+
+<img src="https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=1H6ssXbPbLeDVQNf9PqaarTEeG9sjurEgm">
